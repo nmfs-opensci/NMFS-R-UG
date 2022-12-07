@@ -41,6 +41,8 @@ $('#button').click(function(){
 
 ## Upcoming NMFS R UG Events
 
+* **Dec 13 2022 11-12pm PDT. NMFS R UG Monthly Meeting** Posit Webinar: The Most Useful RStudio IDE Features You Don't Know. [Calendar has WebEx link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDJkdmZmMmliMzQwajRiODc0Mm04ZnZhNWEgbm9hYS5nb3ZfNjByZm43bWw5cnBjaGw2M3ZzNGFmOW4wMThAZw&tmsrc=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com)
+
 * **Dec 13 2022 12-1pm PDT. NMFS R UG Monthly Meeting** Ugly Plots and Better! Using ggplot like a pro. [Calendar with Google Meet link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDJkdmZmMmliMzQwajRiODc0Mm04ZnZhNWEgbm9hYS5nb3ZfNjByZm43bWw5cnBjaGw2M3ZzNGFmOW4wMThAZw&tmsrc=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com)
 
 * **Jan 31 2023 12-1pm PDT. NMFS R UG Monthly Meeting** Lightning Talks! [Calendar with Google Meet link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnU3OGM1dXQ5b2Q5OW1oaW5pbjJhZzQxMHJfMjAyMzAxMjRUMjAwMDAwWiBub2FhLmdvdl82MHJmbjdtbDlycGNobDYzdnM0YWY5bjAxOEBn&tmsrc=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&scp=ALL)
