@@ -41,6 +41,10 @@ $('#button').click(function(){
 
 ## Upcoming NMFS R UG Events
 
+<center>
+  <a href="images/NMFS-R-UG-Poster-Win-2023.pdf">WINTER-SPRING LINE UP OF TALKS</a>
+ </center>
+
 * **Jan 31 2023 12-1pm PDT. NMFS R UG Monthly Meeting** Lightning Talks! [Calendar with Google Meet link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnU3OGM1dXQ5b2Q5OW1oaW5pbjJhZzQxMHJfMjAyMzAxMjRUMjAwMDAwWiBub2FhLmdvdl82MHJmbjdtbDlycGNobDYzdnM0YWY5bjAxOEBn&tmsrc=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&scp=ALL)
 
 * **Feb 14 2023 11-12pm PDT. NMFS Posit Webinar** Quarto for Reproducible Reports. [Calendar with WebEx link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnU3OGM1dXQ5b2Q5OW1oaW5pbjJhZzQxMHJfMjAyMzAxMjRUMjAwMDAwWiBub2FhLmdvdl82MHJmbjdtbDlycGNobDYzdnM0YWY5bjAxOEBn&tmsrc=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&scp=ALL)
