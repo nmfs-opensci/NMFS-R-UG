@@ -45,7 +45,7 @@ $('#button').click(function(){
   <a href="images/NMFS-R-UG-Poster-Win-2023.pdf">WINTER-SPRING LINE UP OF TALKS</a>
  </center>
 
-* **Jan 31 2023 12-1pm PDT. NMFS R UG Monthly Meeting** Lightning Talks! [NOAA Central Library registration link](https://libguides.library.noaa.gov/seminars/upcoming/NOAA-NMFS-R-User-Group-Lightning-Talks-Open-Science-Work-in-R)  &#10070; [Calendar with Google Meet link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnU3OGM1dXQ5b2Q5OW1oaW5pbjJhZzQxMHJfMjAyMzAxMjRUMjAwMDAwWiBub2FhLmdvdl82MHJmbjdtbDlycGNobDYzdnM0YWY5bjAxOEBn&tmsrc=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&scp=ALL)  &#10070; [slides](https://nmfs-opensci.github.io/NMFS-R-UG/files/2023_01_31_Lightning_Talks.pdf)
+* **Jan 31 2023 12-1pm PDT. NMFS R UG Monthly Meeting** Lightning Talks! [Video recording](https://youtu.be/fmXPzEJG8ms) &#10070; [slides](https://nmfs-opensci.github.io/NMFS-R-UG/files/2023_01_31_Lightning_Talks.pdf)
 
 * **Feb 14 2023 11-12pm PDT. NMFS Posit Webinar** Quarto for Reproducible Reports. [Calendar with WebEx link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnU3OGM1dXQ5b2Q5OW1oaW5pbjJhZzQxMHJfMjAyMzAxMjRUMjAwMDAwWiBub2FhLmdvdl82MHJmbjdtbDlycGNobDYzdnM0YWY5bjAxOEBn&tmsrc=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&scp=ALL)
 
@@ -98,7 +98,7 @@ See the "Search past events" tab and our [Past meeting notes](https://docs.googl
 * [NMFS R UG calendar - NOAA access only](https://calendar.google.com/calendar/embed?src=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 * [FIT announcements](https://noaa-fisheries-integrated-toolbox.github.io/news/)
 * [FIT calendar](https://noaa-fisheries-integrated-toolbox.github.io/news/calendar/)
-* https://jumpingrivers.github.io/meetingsR/events.html
+<!-- * https://jumpingrivers.github.io/meetingsR/events.html -->
 
 
 
