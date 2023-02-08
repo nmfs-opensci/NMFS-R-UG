@@ -159,6 +159,21 @@ d-title h1 {
     font-size: 20px;
 }
 
+/* Add column class for two columns */
+.row {
+  display: flex;
+}
+.column {
+  flex: 50%;
+}
+.columnpic { 
+  width: 50%;
+  text-align: center;
+  /* background: lightblue; */
+}
+.pic { 
+  width: 100%;
+}
 
 /* Update overall layout (body width) */
 @media(min-width: 1180px) {
@@ -191,7 +206,7 @@ d-title h1 {
 }
 
 #myInput {
-  background-image: url('/css/searchicon.png');
+/*  background-image: url('/css/searchicon.png'); */
   background-position: 10px 10px;
   background-repeat: no-repeat;
   width: 100%;

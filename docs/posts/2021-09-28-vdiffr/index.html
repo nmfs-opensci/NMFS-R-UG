@@ -2069,6 +2069,21 @@ d-title h1 {
     font-size: 20px;
 }
 
+/* Add column class for two columns */
+.row {
+  display: flex;
+}
+.column {
+  flex: 50%;
+}
+.columnpic { 
+  width: 50%;
+  text-align: center;
+  /* background: lightblue; */
+}
+.pic { 
+  width: 100%;
+}
 
 /* Update overall layout (body width) */
 @media(min-width: 1180px) {
@@ -2101,7 +2116,7 @@ d-title h1 {
 }
 
 #myInput {
-  background-image: url('/css/searchicon.png');
+/*  background-image: url('/css/searchicon.png'); */
   background-position: 10px 10px;
   background-repeat: no-repeat;
   width: 100%;
@@ -2291,7 +2306,7 @@ d-appendix d-footnote-list a.footnote-backlink {
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"vdiffr package","description":"Tests to compare plots for R packages","authors":[{"author":"E. Eli Holmes","authorURL":"https://eeholmes.github.io","affiliation":"NOAA Fisheries","affiliationURL":"https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center","orcidID":""}],"publishedDate":"2021-09-28T00:00:00.000+00:00","citationText":"Holmes, 2021"}
+{"title":"vdiffr package","description":"Tests to compare plots for R packages","authors":[{"author":"E. Eli Holmes","authorURL":"https://eeholmes.github.io","affiliation":"NOAA Fisheries","affiliationURL":"https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center","orcidID":""}],"publishedDate":"2021-09-28T00:00:00.000-07:00","citationText":"Holmes, 2021"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2495,7 +2510,9 @@ test_that(&quot;plots are different&quot;, {
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 <!--radix_placeholder_navigation_after_body--><html><body>
 <div class="distill-site-nav distill-site-footer">
-<p>This website was made with <u><a href="https://rstudio.github.io/distill/">distill by RStudio</a></u>.</p>
+<p>This website was made with
+<u><a href="https://rstudio.github.io/distill/">distill by
+RStudio</a></u>.</p>
 </div>
 <!--/radix_placeholder_navigation_after_body-->
 </body></html>
