@@ -50,8 +50,12 @@ $('#button').click(function(){
 
 Note there are **many** cross-posted R events and trainings on the NMFS R UG calendar. Click on the Calendar link above to see these. In this section, we only list NMFS R UG and NMFS Open Science specific events.
 
-* **March 14 2023 11-12pm PDT. NMFS Posit Webinar**  [See calendar for WebEx link](https://calendar.google.com/calendar/embed?src=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&ctz=America%2FLos_Angeles)
-* **March 28 2023 12-1pm PDT. NMFS R UG Monthly Meeting** Brandon Kopp from the Bureau of Labor Statistics will talk with us about Natural Language Processing (in R and in general). [See calendar for Google Meet link](https://calendar.google.com/calendar/embed?src=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&ctz=America%2FLos_Angeles)</div>
+* **March 28 2023 12-1pm PDT. NMFS R UG Monthly Meeting** Brandon Kopp from the Bureau of Labor Statistics will talk with us about Natural Language Processing (in R and in general). [See calendar for Google Meet link](https://calendar.google.com/calendar/embed?src=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+ 
+#### Posit Webinars
+    
+Did you miss one of the Posit webinars? [Check out the slides and recordings](https://github.com/nmfs-opensci/posit-webinar-series)
+  </div>
 </div>
 
 
@@ -76,7 +80,8 @@ See the "Search past events" tab and our [Past meeting notes](https://docs.googl
   
 <br/>
 
-* **Feb 28 2023 12-1pm PDT. NMFS R UG Monthly Meeting** Connecting to REST APIs in R [Meeting Notes (NOAA restricted)](https://docs.google.com/document/d/1mrgtrSXVtPCTxrpBa_0ZbxEsnK9vcQzs6RIV3f-OTPw/edit?usp=sharing)
+* **March 14 2023 11-12pm PDT. NMFS Posit Webinar**  Shiny and html widgets. [See the series repo for the recording](https://github.com/nmfs-opensci/posit-webinar-series)
+* **Feb 28 2023 12-1pm PDT. NMFS R UG Monthly Meeting** Connecting to REST APIs in R [Meeting Notes (NOAA restricted)](https://docs.google.com/document/d/1mrgtrSXVtPCTxrpBa_0ZbxEsnK9vcQzs6RIV3f-OTPw/edit?usp=sharing) [Video 1 httr::GET](https://youtu.be/uXqWFZj-_2E) [Video 2 making an R client](https://youtu.be/x3LQ1pQ4nvY)
 * **Feb 14 2023 11-12pm PDT. NMFS Posit Webinar** Quarto for Reproducible Reports. [Slides](https://colorado.posit.co/rsc/quarto-reporting/quarto-for-reporting.html) [Materials on GitHub](https://github.com/jeremy-allen/posit-webinar-series/tree/main/03-quarto)
 * **Jan 31 2023 12-1pm PDT. NMFS R UG Monthly Meeting** Lightning Talks! [Video recording](https://youtu.be/fmXPzEJG8ms) &#10070; [slides](https://nmfs-opensci.github.io/NMFS-R-UG/files/2023_01_31_Lightning_Talks.pdf)
 * **Jan 10 2023 11-12pm PDT. NMFS Posit Webinar** RMarkdown and flexdashboard. [video NOAA restricted](https://drive.google.com/file/d/15fe7geggmRH0_t9AatAuHHTSB-3lDR_q/view?usp=share_link)
