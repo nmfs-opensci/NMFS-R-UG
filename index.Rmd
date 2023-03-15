@@ -51,6 +51,8 @@ $('#button').click(function(){
 Note there are **many** cross-posted R events and trainings on the NMFS R UG calendar. Click on the Calendar link above to see these. In this section, we only list NMFS R UG and NMFS Open Science specific events.
 
 * **March 28 2023 12-1pm PDT. NMFS R UG Monthly Meeting** Brandon Kopp from the Bureau of Labor Statistics will talk with us about Natural Language Processing (in R and in general). [See calendar for Google Meet link](https://calendar.google.com/calendar/embed?src=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+* **April 19 2023 1pm PDT. Posit Webinar: Publishing to Connect via push button, API, and CI/CD [See calendar for WebEx link](https://calendar.google.com/calendar/embed?src=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+
  
 #### Posit Webinars
     
