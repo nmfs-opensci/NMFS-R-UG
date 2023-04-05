@@ -17,11 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <details>
   <summary>Click to expand!</summary>
   
-  See the [NMFS Openscapes wiki](https://github.com/nmfs-openscapes/.github/wiki) for many more. These are just a subset.
-
-* [Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) The NOAA Fisheries Integrated Toolbox (NOAA FIT) is an interdisciplinary, web-based portal of operational tools that can be used for a variety of applications, including stock assessment modeling, forecasting, and data preparation for fish and protected species, as well as economic and ecosystem modeling. The FIT community offers support for development of operational tools.
-* [Fisheries Integrated Toolbox Resources](https://noaa-fisheries-integrated-toolbox.github.io/resources/) Resources for FIT developers but are also more widely useful to developers.
-* [Automation Products for IEA](https://noaa-iea.github.io/) Automation Products for Integrated Ecological Assessments
+  See the [NMFS Open Science page]([https://github.com/nmfs-openscapes/.github/wiki](https://nmfs-opensci.github.io/ResourceBook/content/github_in_gov.html#github-in-nmfs)) for a list of various GitHub orgs used by groups at NMFS.
 
 </details>
 
