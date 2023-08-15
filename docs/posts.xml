@@ -12,7 +12,7 @@
       <link>https://nmfs-opensci.github.io/NMFS-R-UG</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>2021-09-28</lastBuildDate>
+    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>vdiffr package</title>
       <dc:creator>E. Eli Holmes</dc:creator>
@@ -21,7 +21,7 @@
       <category>testing</category>
       <category>R packages</category>
       <guid>https://nmfs-opensci.github.io/NMFS-R-UG/posts/2021-09-28-vdiffr</guid>
-      <pubDate>2021-09-28</pubDate>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>welcome</title>
@@ -29,7 +29,7 @@
       <link>https://nmfs-opensci.github.io/NMFS-R-UG/posts/2021-09-15-welcome</link>
       <description>Welcome to the R-Govys Blog.</description>
       <guid>https://nmfs-opensci.github.io/NMFS-R-UG/posts/2021-09-15-welcome</guid>
-      <pubDate>2021-09-15</pubDate>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

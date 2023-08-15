@@ -51,6 +51,10 @@ $('#button').click(function(){
 Please see the cross-posted R events and trainings on the NMFS R UG calendar. Click on the Calendar link above to see these. In this section, we only list NMFS R UG and NMFS Open Science specific events.
 
 
+* Sept 12, 2023 11am Posit Webinar: Best practices for parallel processing with the futureverse
+* Sept 26, 2023. 12pm NMFS R UG monthly meeting. Presentation on CiteSource
+
+
 #### Posit Webinars
     
 Did you miss one of the Posit webinars? [Check out the slides and recordings](https://github.com/nmfs-opensci/posit-webinar-series)
