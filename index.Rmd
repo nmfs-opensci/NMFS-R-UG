@@ -39,7 +39,7 @@ $('#button').click(function(){
 <br/>
 <hr>
 
-
+<!--
 <div class="row">
   <div class="column">
 #### Winter NMFS R UG Meetings
@@ -60,19 +60,21 @@ Please see the cross-posted R events and trainings on the NMFS R UG calendar. Cl
 Did you miss one of the Posit webinars? [Check out the slides and recordings](https://github.com/nmfs-opensci/posit-webinar-series)
   </div>
 </div>
+-->
 
-
-<!--
 ## Upcoming NMFS R UG Events
 
-<center>
-  <a href="images/NMFS-R-UG-Poster-Win-2023.pdf">WINTER-SPRING LINE UP OF TALKS</a>
- </center>
+#### Next events
 
+Please see the cross-posted R events and trainings on the NMFS R UG calendar. Click on the Calendar link above to see these. In this section, we only list NMFS R UG and NMFS Open Science specific events.
 
-* **Feb 14 2023 11-12pm PDT. NMFS Posit Webinar** Quarto for Reproducible Reports. [Calendar with WebEx link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnU3OGM1dXQ5b2Q5OW1oaW5pbjJhZzQxMHJfMjAyMzAxMjRUMjAwMDAwWiBub2FhLmdvdl82MHJmbjdtbDlycGNobDYzdnM0YWY5bjAxOEBn&tmsrc=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&scp=ALL)
+* Oct 10, 2023 11am PT/2pm ET Posit Webinar: Managing RStudio projects, git and the usethis package, plus git-backed publishing to Posit Connect
+* Oct 31, 2023. 12pm PT/3pm ET NMFS R UG monthly meeting. Trick and treat! in R Discussion + Posit Conference Digest
+* Nov 14, 2023 11am PT/2pm ET Posit Webinar: Topic TBD
 
--->
+#### Posit Webinars
+    
+Did you miss one of the Posit webinars? [Check out the slides and recordings](https://github.com/nmfs-opensci/posit-webinar-series)
 
 <br />
 
