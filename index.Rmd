@@ -66,11 +66,12 @@ Did you miss one of the Posit webinars? [Check out the slides and recordings](ht
 
 #### Next events
 
-Please see the cross-posted R events and trainings on the NMFS R UG calendar. Click on the Calendar link above to see these. In this section, we only list NMFS R UG and NMFS Open Science specific events.
+Please see the cross-posted R events and trainings on the [NMFS R UG calendar](https://calendar.google.com/calendar/embed?src=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&ctz=America%2FLos_Angeles). In this section, we only list NMFS R UG and NMFS Open Science specific events. Go to the Calender to add events to your calendar.
 
-* Oct 10, 2023 11am PT/2pm ET Posit Webinar: Managing RStudio projects, git and the usethis package, plus git-backed publishing to Posit Connect
-* Oct 31, 2023. 12pm PT/3pm ET NMFS R UG monthly meeting. Trick and treat! in R Discussion + Posit Conference Digest
-* Nov 14, 2023 11am PT/2pm ET Posit Webinar: Topic TBD
+* Dec 5, 2023 12pmPT/3pm ET NMFS R UG monthly meeting. Eric Ward (NWFSC) will discuss an R data package for US-Canada transboundary bottom trawl data
+* Dec 12, 2023 11am PT/2pm ET Posit Webinar: Topic TBD
+* Jan 23, 2024 12pmPT/3pm ET NMFS R UG monthly meeting. Lightning Talks!
+* Feb 27, 2024 12pmPT/3pm ET NMFS R UG monthly meeting. Sean Rohan (AFSC) will discuss spatial mapping and the akgfmaps and coldpool R packages
 
 #### Posit Webinars
     
