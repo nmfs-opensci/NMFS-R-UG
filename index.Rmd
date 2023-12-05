@@ -68,8 +68,7 @@ Did you miss one of the Posit webinars? [Check out the slides and recordings](ht
 
 Please see the cross-posted R events and trainings on the [NMFS R UG calendar](https://calendar.google.com/calendar/embed?src=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&ctz=America%2FLos_Angeles). In this section, we only list NMFS R UG and NMFS Open Science specific events. Go to the Calender to add events to your calendar.
 
-* Dec 5, 2023 12pmPT/3pm ET NMFS R UG monthly meeting. Eric Ward (NWFSC) will discuss an R data package for US-Canada transboundary bottom trawl data
-* Dec 12, 2023 11am PT/2pm ET Posit Webinar: Topic TBD
+* Dec 12, 2023 11am PT/2pm ET Posit Webinar: Posit Webinar: Best practices for making, maintaining and sharing R packages
 * Jan 23, 2024 12pmPT/3pm ET NMFS R UG monthly meeting. Lightning Talks!
 * Feb 27, 2024 12pmPT/3pm ET NMFS R UG monthly meeting. Sean Rohan (AFSC) will discuss spatial mapping and the akgfmaps and coldpool R packages
 
@@ -82,10 +81,11 @@ Did you miss one of the Posit webinars? [Check out the slides and recordings](ht
 <center><button id="button" class="button">Past Sessions</button></center>
 <div id="wrapper" class="open">
 
-See the "Search past events" tab and our [Past meeting notes](https://docs.google.com/document/d/1mrgtrSXVtPCTxrpBa_0ZbxEsnK9vcQzs6RIV3f-OTPw/edit?usp=sharing) for info on past events and links to things like notes and video for past events.
+See the "Search past events" tab and our [Past meeting notes](https://docs.google.com/document/d/1mrgtrSXVtPCTxrpBa_0ZbxEsnK9vcQzs6RIV3f-OTPw/edit?usp=sharing) for info on past events and links to slides, repos, notes and video.
   
 <br/>
 
+* **Dec 5, 2023 12-1pm PT. NMFS R UG Monthly Meeting** Eric Ward (NWFSC) will discuss an R data package for US-Canada transboundary bottom trawl data
 * **Nov 7 2023 12-1pm PDT. NMFS R UG Monthly Meeting** Trick and treat in R!: Discussion and code sharing and Posit Conf Digest (with Brian Fadely)
 * **Sep 26 2023 12-1pm PDT. NMFS R UG Monthly Meeting** {CiteSource} R package with Trevor Riley from Central Library.
 * **Aug 15 2023 12-1pm PDT. NMFS R UG Monthly Meeting** Test R code with {testthat}.
