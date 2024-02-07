@@ -73,7 +73,7 @@ Please see the cross-posted R events and trainings on the [NMFS R UG calendar](h
 * Mar 19, 2024 12pm PT/3pm ET NMFS R UG monthly meeting. TBD
 * Apr 23, 2024 12pm PT/3pm ET NMFS R UG monthly meeting. TBD
 * May 28, 2024 12pm PT/3pm ET NMFS R UG monthly meeting. TBD
-* Jun 25, 2024 12pm PT/3pm ET NMFS R UG monthly meeting. TBD
+* Jun 25, 2024 12pm PT/3pm ET NMFS R UG monthly meeting. Lighting Talks with the NOAA Central Library [Sign up for a talk](https://docs.google.com/spreadsheets/d/1knf4O62Sth6YU2wlVzrPMaHN6Yw_OMzadhmiYvWSjPA/edit?usp=sharing)
 
 #### Posit Webinars
     
