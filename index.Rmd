@@ -39,31 +39,13 @@ $('#button').click(function(){
 <br/>
 <hr>
 
-<!--
-<div class="row">
-  <div class="column">
-#### Winter NMFS R UG Meetings
-<img class="pic" alt="Winter poster" src="images/NMFS-R-UG-Poster-Win-2023.jpg" />
-  </div>
-  <div class="column">
-#### Next events
 
-Please see the cross-posted R events and trainings on the NMFS R UG calendar. Click on the Calendar link above to see these. In this section, we only list NMFS R UG and NMFS Open Science specific events.
-
-
-* Sept 12, 2023 11am Posit Webinar: Best practices for parallel processing with the futureverse
-* Sept 26, 2023. 12pm NMFS R UG monthly meeting. Presentation on CiteSource
-
-
-#### Posit Webinars
-    
-Did you miss one of the Posit webinars? [Check out the slides and recordings](https://github.com/nmfs-opensci/posit-webinar-series)
-  </div>
-</div>
--->
 
 ## Upcoming NMFS R UG Events
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&bgcolor=%23ffffff&src=Y185MTZiNjk0OGVmMmVlOGI3ZDQ5YzI4NjYxZWZjMDc5ODMwM2MyNzQyYmUzOTljOTI5MGZhMDJkOTMyMGM3NjllQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=bm9hYS5nb3ZfNjByZm43bWw5cnBjaGw2M3ZzNGFmOW4wMThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23F4511E&color=%23A79B8E" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<!--
 #### Next events
 
 Please see the cross-posted R events and trainings on the [NMFS R UG calendar](https://calendar.google.com/calendar/embed?src=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&ctz=America%2FLos_Angeles). In this section, we only list NMFS R UG and NMFS Open Science specific events. Go to the Calender to add events to your calendar.
@@ -78,6 +60,7 @@ Please see the cross-posted R events and trainings on the [NMFS R UG calendar](h
 #### Posit Webinars
     
 Did you miss one of the Posit webinars? [Check out the slides and recordings](https://github.com/nmfs-opensci/posit-webinar-series)
+-->
 
 <br />
 
