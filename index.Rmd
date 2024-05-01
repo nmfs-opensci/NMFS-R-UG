@@ -43,6 +43,8 @@ $('#button').click(function(){
 
 ## Upcoming NMFS R UG Events
 
+Seeing a blank calendar? You must be logged into your NOAA email. We have events every week.
+
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&bgcolor=%23ffffff&src=Y185MTZiNjk0OGVmMmVlOGI3ZDQ5YzI4NjYxZWZjMDc5ODMwM2MyNzQyYmUzOTljOTI5MGZhMDJkOTMyMGM3NjllQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=bm9hYS5nb3ZfNjByZm43bWw5cnBjaGw2M3ZzNGFmOW4wMThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23F4511E&color=%23A79B8E" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!--
